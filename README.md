@@ -1,6 +1,7 @@
-This project is based on "The Complete Pandas Bootcamp 2023 - Data Science with Python," a course offered by Udemy and taught by Alexander Hagmann. It presents a Data Aggregation challenge, requiring the application and combination of various concepts and methods.
+This project is based on "The Complete Pandas Bootcamp 2023 - Data Science with Python," a course offered by Udemy
+and taught by Alexander Hagmann. 
 
-This project is focuses on Exploratory Data analysis (EDA). EDA is a crucial step in the data analysis process that 
+This project is focusing on Exploratory Data analysis (EDA). EDA is a crucial step in the data analysis process that 
 involves summarizing, visualizing, and understanding the main characteristics and patterns within a dataset. 
 The primary objectives of EDA in this project:
 
